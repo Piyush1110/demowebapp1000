@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            This ia a a very good application created by Piyush Chaturvedi
+            This ia a very good application created by Piyush Chaturvedi
         </div>
     </form>
 </body>
